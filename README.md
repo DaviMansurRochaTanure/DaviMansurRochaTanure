@@ -68,10 +68,8 @@
       <h3>&gt; IDENTIFICAÇÃO DO NÚCLEO</h3>
       <p>Bem-vindo ao meu terminal de desenvolvimento. Sou um engenheiro de software focado em criar arquiteturas de alta performance, sistemas escaláveis e interfaces imersivas inspiradas no ecossistema cyberpunk e inteligência artificial.</p>
       <ul>
-        <li>💼 <b>Cargo Atual:</b> Senior Full-Stack &amp; AI Developer</li>
-        <li>📍 <b>Localização:</b> Cyber-Grid // Earth</li>
-        <li>🎯 <b>Missão:</b> Transformar conceitos complexos em código limpo, funcional e esteticamente avançado.</li>
-        <li>💬 <b>Áreas de Atuação:</b> Cloud Computing, Machine Learning, Web3 &amp; UI/UX Engineering.</li>
+        <li>📍 <b>Localização:</b> Belo horizonte // Brasil </li>
+        <li>🎯 <b>Missão:</b> Aprender e Melhorar meus conhecimentos nessa área e realizar projetos de verdade</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -86,7 +84,7 @@
 ## 🛠️ // TECH_STACK_MATRIX
 
 <p align="center">
-  <i>Linguagens, frameworks e protocolos integrados no meu ecossistema de desenvolvimento.</i>
+  <i>Linguagens, e Conhecimentos:</i>
 </p>
 
 <br>
