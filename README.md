@@ -67,13 +67,13 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/sua-conta-github/projeto-alpha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sua-conta-github&repo=projeto-alpha&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="Projeto Alpha">
+      <a href="https://github.com/DaviMansurRochaTanure/projeto-alpha">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviMansurRochaTanure&repo=projeto-alpha&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="Projeto Alpha">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/sua-conta-github/projeto-beta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sua-conta-github&repo=projeto-beta&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="Projeto Beta">
+      <a href="https://github.com/DaviMansurRochaTanure/projeto-beta">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviMansurRochaTanure&repo=projeto-beta&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="Projeto Beta">
       </a>
     </td>
   </tr>
