@@ -1,50 +1,5 @@
 <p align="center">
-  <!-- Banner Futurista com Efeito Holográfico e Scanline -->
-  <svg width="100%" height="160" viewBox="0 0 850 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&amp;family=Share+Tech+Mono&amp;display=swap');
-      
-      .bg { fill: #05050a; }
-      .border-glow { stroke: #00f0ff; stroke-width: 1.5; stroke-dasharray: 8 4; animation: dash 20s linear infinite; }
-      .grid-lines { stroke: #00f0ff15; stroke-width: 0.5; }
-      .title { font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 32px; fill: #ffffff; letter-spacing: 4px; filter: drop-shadow(0px 0px 8px rgba(0,240,255,0.6)); }
-      .subtitle { font-family: 'Share Tech Mono', monospace; font-size: 13px; fill: #00f0ff; letter-spacing: 2px; }
-      .accent { fill: #ff0055; }
-      .matrix-dot { animation: pulse 2s ease-in-out infinite; }
-      
-      @keyframes dash {
-        to { stroke-dashoffset: -1000; }
-      }
-      @keyframes pulse {
-        0%, 100% { opacity: 0.3; }
-        50% { opacity: 1; }
-      }
-    </style>
-    
-    <!-- Fundo e Grade Estilo Cyberpunk -->
-    <rect width="850" height="160" rx="12" class="bg"/>
-    <rect x="5" y="5" width="840" height="150" rx="10" fill="#070814" stroke="#1f2438" stroke-width="2"/>
-    <rect x="12" y="12" width="826" height="136" rx="8" class="border-glow" fill="none"/>
-    
-    <!-- Linhas de Grade de Fundo -->
-    <line x1="50" y1="20" x2="50" y2="140" class="grid-lines"/>
-    <line x1="800" y1="20" x2="800" y2="140" class="grid-lines"/>
-    
-    <!-- Elementos Decorativos de HUD -->
-    <path d="M 20 40 L 20 20 L 40 20" stroke="#00f0ff" stroke-width="2" fill="none"/>
-    <path d="M 830 40 L 830 20 L 810 20" stroke="#00f0ff" stroke-width="2" fill="none"/>
-    <path d="M 20 120 L 20 140 L 40 140" stroke="#00f0ff" stroke-width="2" fill="none"/>
-    <path d="M 830 120 L 830 140 L 810 140" stroke="#00f0ff" stroke-width="2" fill="none"/>
-    
-    <!-- Indicadores de Status (Dots) -->
-    <circle cx="45" cy="80" r="3" class="accent matrix-dot"/>
-    <circle cx="55" cy="80" r="2" fill="#00f0ff"/>
-    <circle cx="63" cy="80" r="2" fill="#00f0ff"/>
-
-    <!-- Textos Principais -->
-    <text x="85" y="78" class="title">SYSTEM_CORE // <tspan class="accent">ONLINE</tspan></text>
-    <text x="88" y="105" class="subtitle">&gt; INITIALIZING NEURAL INTERFACE... SECURE CONNECTION ESTABLISHED.</text>
-  </svg>
+  <img src="banner.svg" alt="Davi Mansur Banner">
 </p>
 
 <!-- Typing Animation / Header de Apresentação -->
