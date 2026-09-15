@@ -29,7 +29,7 @@
     </td>
     <td width="45%" valign="top" align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=sua-conta-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=DaviMansurRochaTanure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070814&title_color=00F0FF&icon_color=FF0055&text_color=A9B7C6" width="100%" alt="GitHub Stats">
     </td>
   </tr>
 </table>
